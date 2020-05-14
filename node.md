@@ -48,7 +48,7 @@
     -annconda主要是一个虚拟环境管理器
     -还是一个安装包管理器
     
-#git 几条常用命名
+# git 几条常用命名
 
     -git pull
     -git push

@@ -40,4 +40,3 @@ print(yueyue.name)
 print(yueyue.age)
 # 注意成员函数的调用没有传递进参数
 yueyue.doHomework()
-print("happy1111112221")
