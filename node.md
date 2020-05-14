@@ -51,3 +51,4 @@
 #git 几条常用命名
 
     -git pull
+    -git push
