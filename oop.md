@@ -196,4 +196,17 @@
     -setattr: set attribute
     -delattr: delete attribute  
     -dir：获取成员列表  
+
+## 6.类的成员描述符（属性）
+-类的成员描述符是为了在类中对类的成员属性进行相关操作而创建的一种方式
+    -get：获取属性
+    -set：修改或者添加属性
+    -delete： 删除属性的操作
+    
+-如果想使用类的成员描述，大概有三种方法
+    -使用类实现描述器
+    -使用属性修饰符
+    -使用property函数
+        -property函数很简单
+        -property（fget ，fset，fdel，doc）
         
